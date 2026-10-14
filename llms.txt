@@ -1,0 +1,11 @@
+# NexusIQ
+
+> Make Data Your Best Performing Channel
+
+
+## Pages
+
+- [NexusIQ | Make Data Your Best Performing Channel](https://om-javheri.github.io/nexusiq/): An omni-channel audience intelligence platform that helps brands build audience segments, plan across every channel, and prove attribution and ROI using behavioural and first-party data.
+- [Capabilities | NexusIQ](https://om-javheri.github.io/nexusiq/capabilities/): An omni-channel audience intelligence platform that helps brands build audience segments, plan across every channel, and prove attribution and ROI using behavioural and first-party data.
+- [Platform | NexusIQ](https://om-javheri.github.io/nexusiq/platform/): An omni-channel audience intelligence platform that helps brands build audience segments, plan across every channel, and prove attribution and ROI using behavioural and first-party data.
+- [Resources | NexusIQ](https://om-javheri.github.io/nexusiq/resources/): An omni-channel audience intelligence platform that helps brands build audience segments, plan across every channel, and prove attribution and ROI using behavioural and first-party data.
